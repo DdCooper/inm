@@ -1,0 +1,1210 @@
+2013-12-02 17:56:07 Error: [MissingControllerException] Controller class ViewController could not be found.
+Exception Attributes: array (
+  'class' => 'ViewController',
+  'plugin' => NULL,
+)
+Request URL: /inmuebles/view
+Stack Trace:
+#0 C:\wamp\www\inmuebles\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-02 17:56:22 Error: [MissingControllerException] Controller class ViewController could not be found.
+Exception Attributes: array (
+  'class' => 'ViewController',
+  'plugin' => NULL,
+)
+Request URL: /inmuebles/view/propertys
+Stack Trace:
+#0 C:\wamp\www\inmuebles\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-02 17:56:29 Error: [MissingControllerException] Controller class ViewController could not be found.
+Exception Attributes: array (
+  'class' => 'ViewController',
+  'plugin' => NULL,
+)
+Request URL: /inmuebles/view/propertys/index
+Stack Trace:
+#0 C:\wamp\www\inmuebles\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-02 17:57:44 Error: [MissingControllerException] Controller class ViewController could not be found.
+Exception Attributes: array (
+  'class' => 'ViewController',
+  'plugin' => NULL,
+)
+Request URL: /inmuebles/view/Propertys/index
+Stack Trace:
+#0 C:\wamp\www\inmuebles\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-02 17:58:05 Error: [MissingControllerException] Controller class ViewController could not be found.
+Exception Attributes: array (
+  'class' => 'ViewController',
+  'plugin' => NULL,
+)
+Request URL: /inmuebles/view/Propertys/
+Stack Trace:
+#0 C:\wamp\www\inmuebles\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-02 17:58:10 Error: [MissingControllerException] Controller class ViewController could not be found.
+Exception Attributes: array (
+  'class' => 'ViewController',
+  'plugin' => NULL,
+)
+Request URL: /inmuebles/view/Propertys/index
+Stack Trace:
+#0 C:\wamp\www\inmuebles\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-02 17:58:14 Error: [MissingControllerException] Controller class ViewController could not be found.
+Exception Attributes: array (
+  'class' => 'ViewController',
+  'plugin' => NULL,
+)
+Request URL: /inmuebles/view/Propertys/index.ctp
+Stack Trace:
+#0 C:\wamp\www\inmuebles\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-02 18:01:28 Error: [MissingControllerException] Controller class ViewController could not be found.
+Exception Attributes: array (
+  'class' => 'ViewController',
+  'plugin' => NULL,
+)
+Request URL: /inmuebles/view/Propertys/index.ctp
+Stack Trace:
+#0 C:\wamp\www\inmuebles\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-02 18:01:30 Error: [MissingControllerException] Controller class ViewController could not be found.
+Exception Attributes: array (
+  'class' => 'ViewController',
+  'plugin' => NULL,
+)
+Request URL: /inmuebles/view/Propertys/index.ctp
+Stack Trace:
+#0 C:\wamp\www\inmuebles\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-02 18:02:12 Error: [MissingControllerException] Controller class ViewController could not be found.
+Exception Attributes: array (
+  'class' => 'ViewController',
+  'plugin' => NULL,
+)
+Request URL: /inmuebles/view/Propertys/index
+Stack Trace:
+#0 C:\wamp\www\inmuebles\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-02 18:02:17 Error: [MissingControllerException] Controller class ViewController could not be found.
+Exception Attributes: array (
+  'class' => 'ViewController',
+  'plugin' => NULL,
+)
+Request URL: /inmuebles/view/Propertys
+Stack Trace:
+#0 C:\wamp\www\inmuebles\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-02 18:02:21 Error: [MissingControllerException] Controller class ViewController could not be found.
+Exception Attributes: array (
+  'class' => 'ViewController',
+  'plugin' => NULL,
+)
+Request URL: /inmuebles/view/
+Stack Trace:
+#0 C:\wamp\www\inmuebles\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-02 18:02:25 Error: [MissingControllerException] Controller class ViewController could not be found.
+Exception Attributes: array (
+  'class' => 'ViewController',
+  'plugin' => NULL,
+)
+Request URL: /inmuebles/view/index
+Stack Trace:
+#0 C:\wamp\www\inmuebles\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-02 18:02:34 Error: [MissingControllerException] Controller class ViewController could not be found.
+Exception Attributes: array (
+  'class' => 'ViewController',
+  'plugin' => NULL,
+)
+Request URL: /inmuebles/view/Propertys
+Stack Trace:
+#0 C:\wamp\www\inmuebles\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-02 18:02:40 Error: [MissingControllerException] Controller class ViewController could not be found.
+Exception Attributes: array (
+  'class' => 'ViewController',
+  'plugin' => NULL,
+)
+Request URL: /inmuebles/view/Propertys/1
+Stack Trace:
+#0 C:\wamp\www\inmuebles\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-02 18:02:44 Error: [MissingControllerException] Controller class ViewController could not be found.
+Exception Attributes: array (
+  'class' => 'ViewController',
+  'plugin' => NULL,
+)
+Request URL: /inmuebles/view/Propertys/index
+Stack Trace:
+#0 C:\wamp\www\inmuebles\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-02 18:06:43 Error: [MissingControllerException] Controller class ViewController could not be found.
+Exception Attributes: array (
+  'class' => 'ViewController',
+  'plugin' => NULL,
+)
+Request URL: /inmuebles/view/Propertys/index
+Stack Trace:
+#0 C:\wamp\www\inmuebles\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-02 18:06:45 Error: [MissingControllerException] Controller class ViewController could not be found.
+Exception Attributes: array (
+  'class' => 'ViewController',
+  'plugin' => NULL,
+)
+Request URL: /inmuebles/view/Propertys/index
+Stack Trace:
+#0 C:\wamp\www\inmuebles\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-02 18:06:48 Error: [MissingControllerException] Controller class ViewController could not be found.
+Exception Attributes: array (
+  'class' => 'ViewController',
+  'plugin' => NULL,
+)
+Request URL: /inmuebles/view/Propertys/
+Stack Trace:
+#0 C:\wamp\www\inmuebles\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-02 18:08:26 Error: [MissingControllerException] Controller class ViewController could not be found.
+Exception Attributes: array (
+  'class' => 'ViewController',
+  'plugin' => NULL,
+)
+Request URL: /inmuebles/view/Propertys/index
+Stack Trace:
+#0 C:\wamp\www\inmuebles\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-02 18:10:40 Error: [MissingControllerException] Controller class ViewController could not be found.
+Exception Attributes: array (
+  'class' => 'ViewController',
+  'plugin' => NULL,
+)
+Request URL: /inmuebles/view/Propertys/index
+Stack Trace:
+#0 C:\wamp\www\inmuebles\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-02 18:10:43 Error: [MissingControllerException] Controller class ViewController could not be found.
+Exception Attributes: array (
+  'class' => 'ViewController',
+  'plugin' => NULL,
+)
+Request URL: /inmuebles/view/Propertys/index
+Stack Trace:
+#0 C:\wamp\www\inmuebles\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-02 18:11:10 Error: [MissingControllerException] Controller class ViewController could not be found.
+Exception Attributes: array (
+  'class' => 'ViewController',
+  'plugin' => NULL,
+)
+Request URL: /inmuebles/view/Propertys/index
+Stack Trace:
+#0 C:\wamp\www\inmuebles\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-02 18:15:12 Error: [MissingControllerException] Controller class ViewController could not be found.
+Exception Attributes: array (
+  'class' => 'ViewController',
+  'plugin' => NULL,
+)
+Request URL: /inmuebles/view/Propertys/index
+Stack Trace:
+#0 C:\wamp\www\inmuebles\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-02 18:16:52 Error: [MissingControllerException] Controller class ViewController could not be found.
+Exception Attributes: array (
+  'class' => 'ViewController',
+  'plugin' => NULL,
+)
+Request URL: /inmuebles/view/Propertys/index
+Stack Trace:
+#0 C:\wamp\www\inmuebles\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-02 18:16:53 Error: [MissingControllerException] Controller class ViewController could not be found.
+Exception Attributes: array (
+  'class' => 'ViewController',
+  'plugin' => NULL,
+)
+Request URL: /inmuebles/view/Propertys/index
+Stack Trace:
+#0 C:\wamp\www\inmuebles\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-02 18:17:00 Error: [MissingControllerException] Controller class ViewController could not be found.
+Exception Attributes: array (
+  'class' => 'ViewController',
+  'plugin' => NULL,
+)
+Request URL: /inmuebles/view/Propertys/view
+Stack Trace:
+#0 C:\wamp\www\inmuebles\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-02 18:17:06 Error: [MissingControllerException] Controller class ViewController could not be found.
+Exception Attributes: array (
+  'class' => 'ViewController',
+  'plugin' => NULL,
+)
+Request URL: /inmuebles/view/Propertys/
+Stack Trace:
+#0 C:\wamp\www\inmuebles\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-02 18:17:40 Error: [MissingControllerException] Controller class ViewController could not be found.
+Exception Attributes: array (
+  'class' => 'ViewController',
+  'plugin' => NULL,
+)
+Request URL: /inmuebles/view/Propertys/view
+Stack Trace:
+#0 C:\wamp\www\inmuebles\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-02 18:17:45 Error: [MissingControllerException] Controller class ViewController could not be found.
+Exception Attributes: array (
+  'class' => 'ViewController',
+  'plugin' => NULL,
+)
+Request URL: /inmuebles/view/Propertys/index
+Stack Trace:
+#0 C:\wamp\www\inmuebles\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-02 18:21:53 Error: [MissingControllerException] Controller class ViewController could not be found.
+Exception Attributes: array (
+  'class' => 'ViewController',
+  'plugin' => NULL,
+)
+Request URL: /inmuebles/view/Propertys/index
+Stack Trace:
+#0 C:\wamp\www\inmuebles\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-02 18:21:55 Error: [MissingControllerException] Controller class ViewController could not be found.
+Exception Attributes: array (
+  'class' => 'ViewController',
+  'plugin' => NULL,
+)
+Request URL: /inmuebles/view/Propertys/index
+Stack Trace:
+#0 C:\wamp\www\inmuebles\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-02 18:24:01 Error: [MissingControllerException] Controller class ViewController could not be found.
+Exception Attributes: array (
+  'class' => 'ViewController',
+  'plugin' => NULL,
+)
+Request URL: /inmuebles/view/Propertys/index
+Stack Trace:
+#0 C:\wamp\www\inmuebles\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-02 18:34:49 Error: [MissingControllerException] Controller class ViewController could not be found.
+Exception Attributes: array (
+  'class' => 'ViewController',
+  'plugin' => NULL,
+)
+Request URL: /inmuebles/view/
+Stack Trace:
+#0 C:\wamp\www\inmuebles\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-02 18:37:33 Error: [MissingControllerException] Controller class ViewController could not be found.
+Exception Attributes: array (
+  'class' => 'ViewController',
+  'plugin' => NULL,
+)
+Request URL: /inmuebles/view/propertys/
+Stack Trace:
+#0 C:\wamp\www\inmuebles\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-02 18:37:38 Error: [MissingControllerException] Controller class ViewController could not be found.
+Exception Attributes: array (
+  'class' => 'ViewController',
+  'plugin' => NULL,
+)
+Request URL: /inmuebles/view/propertys/index
+Stack Trace:
+#0 C:\wamp\www\inmuebles\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-02 18:37:47 Error: [MissingControllerException] Controller class ViewController could not be found.
+Exception Attributes: array (
+  'class' => 'ViewController',
+  'plugin' => NULL,
+)
+Request URL: /inmuebles/view/
+Stack Trace:
+#0 C:\wamp\www\inmuebles\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-02 18:40:32 Error: [MissingControllerException] Controller class ViewController could not be found.
+Exception Attributes: array (
+  'class' => 'ViewController',
+  'plugin' => NULL,
+)
+Request URL: /inmuebles/view/index
+Stack Trace:
+#0 C:\wamp\www\inmuebles\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-02 18:40:35 Error: [MissingControllerException] Controller class ViewController could not be found.
+Exception Attributes: array (
+  'class' => 'ViewController',
+  'plugin' => NULL,
+)
+Request URL: /inmuebles/view/
+Stack Trace:
+#0 C:\wamp\www\inmuebles\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-02 18:41:08 Error: [MissingControllerException] Controller class ViewController could not be found.
+Exception Attributes: array (
+  'class' => 'ViewController',
+  'plugin' => NULL,
+)
+Request URL: /inmuebles/view/
+Stack Trace:
+#0 C:\wamp\www\inmuebles\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-02 18:41:49 Error: [MissingControllerException] Controller class ViewController could not be found.
+Exception Attributes: array (
+  'class' => 'ViewController',
+  'plugin' => NULL,
+)
+Request URL: /inmuebles/view/
+Stack Trace:
+#0 C:\wamp\www\inmuebles\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-02 18:42:56 Error: [MissingActionException] Action ViewController::index() could not be found.
+Exception Attributes: array (
+  'controller' => 'ViewController',
+  'action' => 'index',
+)
+Request URL: /inmuebles/view/
+Stack Trace:
+#0 C:\wamp\www\inmuebles\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\inmuebles\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(ViewController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\inmuebles\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-12-02 18:43:26 Error: Fatal Error (1): Call to a member function find() on a non-object in [C:\wamp\www\inmuebles\app\Controller\ViewController.php, line 6]
+2013-12-02 18:43:26 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /inmuebles/view/
+Stack Trace:
+#0 C:\wamp\www\inmuebles\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\wamp\www\inm...', 6)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\wamp\www\inm...', 6, Array)
+#2 C:\wamp\www\inmuebles\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\wamp\www\inm...', 6, Array)
+#3 C:\wamp\www\inmuebles\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-12-02 18:44:06 Error: Fatal Error (1): Class 'PropertysController' not found in [C:\wamp\www\inmuebles\app\Controller\ViewController.php, line 2]
+2013-12-02 18:44:06 Error: [FatalErrorException] Class 'PropertysController' not found
+Request URL: /inmuebles/view/
+Stack Trace:
+#0 C:\wamp\www\inmuebles\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Class 'Property...', 'C:\wamp\www\inm...', 2)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'Property...', 'C:\wamp\www\inm...', 2, Array)
+#2 C:\wamp\www\inmuebles\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Class 'Property...', 'C:\wamp\www\inm...', 2, Array)
+#3 C:\wamp\www\inmuebles\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-12-02 18:45:01 Error: [MissingControllerException] Controller class ViewController could not be found.
+Exception Attributes: array (
+  'class' => 'ViewController',
+  'plugin' => NULL,
+)
+Request URL: /inmuebles/view/
+Stack Trace:
+#0 C:\wamp\www\inmuebles\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-02 18:45:12 Error: [MissingControllerException] Controller class ViewController could not be found.
+Exception Attributes: array (
+  'class' => 'ViewController',
+  'plugin' => NULL,
+)
+Request URL: /inmuebles/view/index
+Stack Trace:
+#0 C:\wamp\www\inmuebles\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-02 18:45:16 Error: [MissingControllerException] Controller class ViewController could not be found.
+Exception Attributes: array (
+  'class' => 'ViewController',
+  'plugin' => NULL,
+)
+Request URL: /inmuebles/view/index.php
+Stack Trace:
+#0 C:\wamp\www\inmuebles\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-02 18:45:20 Error: [MissingControllerException] Controller class ViewController could not be found.
+Exception Attributes: array (
+  'class' => 'ViewController',
+  'plugin' => NULL,
+)
+Request URL: /inmuebles/view/index
+Stack Trace:
+#0 C:\wamp\www\inmuebles\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-02 18:45:41 Error: [MissingControllerException] Controller class ViewController could not be found.
+Exception Attributes: array (
+  'class' => 'ViewController',
+  'plugin' => NULL,
+)
+Request URL: /inmuebles/view/index
+Stack Trace:
+#0 C:\wamp\www\inmuebles\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-02 18:46:04 Error: [MissingControllerException] Controller class ViewController could not be found.
+Exception Attributes: array (
+  'class' => 'ViewController',
+  'plugin' => NULL,
+)
+Request URL: /inmuebles/view/index
+Stack Trace:
+#0 C:\wamp\www\inmuebles\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-02 18:46:05 Error: [MissingControllerException] Controller class ViewController could not be found.
+Exception Attributes: array (
+  'class' => 'ViewController',
+  'plugin' => NULL,
+)
+Request URL: /inmuebles/view/index
+Stack Trace:
+#0 C:\wamp\www\inmuebles\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-02 18:46:06 Error: [MissingControllerException] Controller class ViewController could not be found.
+Exception Attributes: array (
+  'class' => 'ViewController',
+  'plugin' => NULL,
+)
+Request URL: /inmuebles/view/index
+Stack Trace:
+#0 C:\wamp\www\inmuebles\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-02 18:46:16 Error: [MissingControllerException] Controller class ViewController could not be found.
+Exception Attributes: array (
+  'class' => 'ViewController',
+  'plugin' => NULL,
+)
+Request URL: /inmuebles/view/property
+Stack Trace:
+#0 C:\wamp\www\inmuebles\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-02 18:46:20 Error: [MissingControllerException] Controller class ViewController could not be found.
+Exception Attributes: array (
+  'class' => 'ViewController',
+  'plugin' => NULL,
+)
+Request URL: /inmuebles/view/property/index
+Stack Trace:
+#0 C:\wamp\www\inmuebles\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-02 18:46:54 Error: [MissingControllerException] Controller class ViewController could not be found.
+Exception Attributes: array (
+  'class' => 'ViewController',
+  'plugin' => NULL,
+)
+Request URL: /inmuebles/view/
+Stack Trace:
+#0 C:\wamp\www\inmuebles\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-02 18:46:56 Error: [MissingControllerException] Controller class ViewController could not be found.
+Exception Attributes: array (
+  'class' => 'ViewController',
+  'plugin' => NULL,
+)
+Request URL: /inmuebles/view/
+Stack Trace:
+#0 C:\wamp\www\inmuebles\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-02 18:47:08 Error: [MissingControllerException] Controller class IndexController could not be found.
+Exception Attributes: array (
+  'class' => 'IndexController',
+  'plugin' => NULL,
+)
+Request URL: /inmuebles/index
+Stack Trace:
+#0 C:\wamp\www\inmuebles\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-02 18:47:24 Error: Fatal Error (4): syntax error, unexpected '?>', expecting function (T_FUNCTION) in [C:\wamp\www\inmuebles\app\Controller\PropertysController.php, line 13]
+2013-12-02 18:47:24 Error: [FatalErrorException] syntax error, unexpected '?>', expecting function (T_FUNCTION)
+Request URL: /inmuebles/propertys
+Stack Trace:
+#0 C:\wamp\www\inmuebles\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\inm...', 13)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\inm...', 13, Array)
+#2 C:\wamp\www\inmuebles\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\inm...', 13, Array)
+#3 C:\wamp\www\inmuebles\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-12-02 18:48:06 Error: Fatal Error (4): syntax error, unexpected '?>', expecting function (T_FUNCTION) in [C:\wamp\www\inmuebles\app\Controller\PropertysController.php, line 13]
+2013-12-02 18:48:06 Error: [FatalErrorException] syntax error, unexpected '?>', expecting function (T_FUNCTION)
+Request URL: /inmuebles/propertys/index
+Stack Trace:
+#0 C:\wamp\www\inmuebles\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\inm...', 13)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\inm...', 13, Array)
+#2 C:\wamp\www\inmuebles\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\inm...', 13, Array)
+#3 C:\wamp\www\inmuebles\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-12-02 18:48:09 Error: Fatal Error (4): syntax error, unexpected '?>', expecting function (T_FUNCTION) in [C:\wamp\www\inmuebles\app\Controller\PropertysController.php, line 13]
+2013-12-02 18:48:09 Error: [FatalErrorException] syntax error, unexpected '?>', expecting function (T_FUNCTION)
+Request URL: /inmuebles/propertys/index
+Stack Trace:
+#0 C:\wamp\www\inmuebles\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\inm...', 13)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\inm...', 13, Array)
+#2 C:\wamp\www\inmuebles\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\inm...', 13, Array)
+#3 C:\wamp\www\inmuebles\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-12-02 18:50:08 Error: Fatal Error (4): syntax error, unexpected '?>', expecting function (T_FUNCTION) in [C:\wamp\www\inmuebles\app\Controller\PropertysController.php, line 13]
+2013-12-02 18:50:08 Error: [FatalErrorException] syntax error, unexpected '?>', expecting function (T_FUNCTION)
+Request URL: /inmuebles/propertys/index
+Stack Trace:
+#0 C:\wamp\www\inmuebles\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\inm...', 13)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\inm...', 13, Array)
+#2 C:\wamp\www\inmuebles\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\inm...', 13, Array)
+#3 C:\wamp\www\inmuebles\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-12-02 18:50:09 Error: Fatal Error (4): syntax error, unexpected '?>', expecting function (T_FUNCTION) in [C:\wamp\www\inmuebles\app\Controller\PropertysController.php, line 13]
+2013-12-02 18:50:09 Error: [FatalErrorException] syntax error, unexpected '?>', expecting function (T_FUNCTION)
+Request URL: /inmuebles/propertys/index
+Stack Trace:
+#0 C:\wamp\www\inmuebles\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\inm...', 13)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\inm...', 13, Array)
+#2 C:\wamp\www\inmuebles\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\inm...', 13, Array)
+#3 C:\wamp\www\inmuebles\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-12-02 18:50:14 Error: [MissingControllerException] Controller class ViewController could not be found.
+Exception Attributes: array (
+  'class' => 'ViewController',
+  'plugin' => NULL,
+)
+Request URL: /inmuebles/view/index
+Stack Trace:
+#0 C:\wamp\www\inmuebles\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-02 18:50:22 Error: [MissingControllerException] Controller class ViewController could not be found.
+Exception Attributes: array (
+  'class' => 'ViewController',
+  'plugin' => NULL,
+)
+Request URL: /inmuebles/view/
+Stack Trace:
+#0 C:\wamp\www\inmuebles\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-02 18:50:25 Error: [MissingControllerException] Controller class ViewController could not be found.
+Exception Attributes: array (
+  'class' => 'ViewController',
+  'plugin' => NULL,
+)
+Request URL: /inmuebles/view/1
+Stack Trace:
+#0 C:\wamp\www\inmuebles\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-02 18:51:04 Error: [MissingControllerException] Controller class PropertysviewController could not be found.
+Exception Attributes: array (
+  'class' => 'PropertysviewController',
+  'plugin' => NULL,
+)
+Request URL: /inmuebles/propertysview
+Stack Trace:
+#0 C:\wamp\www\inmuebles\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-02 18:51:15 Error: Fatal Error (4): syntax error, unexpected '?>', expecting function (T_FUNCTION) in [C:\wamp\www\inmuebles\app\Controller\PropertysController.php, line 13]
+2013-12-02 18:51:15 Error: [FatalErrorException] syntax error, unexpected '?>', expecting function (T_FUNCTION)
+Request URL: /inmuebles/propertys/view
+Stack Trace:
+#0 C:\wamp\www\inmuebles\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\inm...', 13)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\inm...', 13, Array)
+#2 C:\wamp\www\inmuebles\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\inm...', 13, Array)
+#3 C:\wamp\www\inmuebles\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-12-02 18:51:57 Error: [MissingViewException] View file "C:\wamp\www\inmuebles\app\View\Propertys\view.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\wamp\\www\\inmuebles\\app\\View\\Propertys\\view.ctp',
+)
+Request URL: /inmuebles/propertys/view
+Stack Trace:
+#0 C:\wamp\www\inmuebles\lib\Cake\View\View.php(457): View->_getViewFileName(NULL)
+#1 C:\wamp\www\inmuebles\lib\Cake\Controller\Controller.php(952): View->render(NULL, NULL)
+#2 C:\wamp\www\inmuebles\lib\Cake\Routing\Dispatcher.php(192): Controller->render()
+#3 C:\wamp\www\inmuebles\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(PropertysController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\wamp\www\inmuebles\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-12-02 18:52:07 Error: [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Mysql',
+  'message' => 'SQLSTATE[HY000] [1049] Unknown database \'database_name\'',
+  'enabled' => true,
+)
+Request URL: /inmuebles/propertys/view/index
+Stack Trace:
+#0 C:\wamp\www\inmuebles\lib\Cake\Model\Datasource\DboSource.php(260): Mysql->connect()
+#1 C:\wamp\www\inmuebles\lib\Cake\Model\ConnectionManager.php(105): DboSource->__construct(Array)
+#2 C:\wamp\www\inmuebles\lib\Cake\Model\Model.php(3471): ConnectionManager::getDataSource('default')
+#3 C:\wamp\www\inmuebles\lib\Cake\Model\Model.php(1126): Model->setDataSource('default')
+#4 C:\wamp\www\inmuebles\lib\Cake\Model\Model.php(3493): Model->setSource('properties')
+#5 C:\wamp\www\inmuebles\lib\Cake\Model\Model.php(2897): Model->getDataSource()
+#6 C:\wamp\www\inmuebles\lib\Cake\Model\Model.php(2869): Model->_readDataSource('first', Array)
+#7 C:\wamp\www\inmuebles\lib\Cake\Model\Model.php(1592): Model->find('first', Array)
+#8 C:\wamp\www\inmuebles\app\Controller\PropertysController.php(10): Model->read()
+#9 [internal function]: PropertysController->view('index')
+#10 C:\wamp\www\inmuebles\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PropertysController), Array)
+#11 C:\wamp\www\inmuebles\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#12 C:\wamp\www\inmuebles\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(PropertysController), Object(CakeRequest), Object(CakeResponse))
+#13 C:\wamp\www\inmuebles\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#14 {main}
+2013-12-02 18:52:48 Error: [MissingTableException] Table properties for model Property was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'properties',
+  'class' => 'Property',
+  'ds' => 'default',
+)
+Request URL: /inmuebles/propertys/view/index
+Stack Trace:
+#0 C:\wamp\www\inmuebles\lib\Cake\Model\Model.php(3493): Model->setSource('properties')
+#1 C:\wamp\www\inmuebles\lib\Cake\Model\Model.php(2897): Model->getDataSource()
+#2 C:\wamp\www\inmuebles\lib\Cake\Model\Model.php(2869): Model->_readDataSource('first', Array)
+#3 C:\wamp\www\inmuebles\lib\Cake\Model\Model.php(1592): Model->find('first', Array)
+#4 C:\wamp\www\inmuebles\app\Controller\PropertysController.php(10): Model->read()
+#5 [internal function]: PropertysController->view('index')
+#6 C:\wamp\www\inmuebles\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PropertysController), Array)
+#7 C:\wamp\www\inmuebles\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#8 C:\wamp\www\inmuebles\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(PropertysController), Object(CakeRequest), Object(CakeResponse))
+#9 C:\wamp\www\inmuebles\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2013-12-02 18:52:51 Error: [MissingTableException] Table properties for model Property was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'properties',
+  'class' => 'Property',
+  'ds' => 'default',
+)
+Request URL: /inmuebles/propertys/view/index
+Stack Trace:
+#0 C:\wamp\www\inmuebles\lib\Cake\Model\Model.php(3493): Model->setSource('properties')
+#1 C:\wamp\www\inmuebles\lib\Cake\Model\Model.php(2897): Model->getDataSource()
+#2 C:\wamp\www\inmuebles\lib\Cake\Model\Model.php(2869): Model->_readDataSource('first', Array)
+#3 C:\wamp\www\inmuebles\lib\Cake\Model\Model.php(1592): Model->find('first', Array)
+#4 C:\wamp\www\inmuebles\app\Controller\PropertysController.php(10): Model->read()
+#5 [internal function]: PropertysController->view('index')
+#6 C:\wamp\www\inmuebles\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PropertysController), Array)
+#7 C:\wamp\www\inmuebles\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#8 C:\wamp\www\inmuebles\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(PropertysController), Object(CakeRequest), Object(CakeResponse))
+#9 C:\wamp\www\inmuebles\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2013-12-02 18:53:35 Error: [MissingTableException] Table properties for model Property was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'properties',
+  'class' => 'Property',
+  'ds' => 'default',
+)
+Request URL: /inmuebles/propertys/view/index
+Stack Trace:
+#0 C:\wamp\www\inmuebles\lib\Cake\Model\Model.php(3493): Model->setSource('properties')
+#1 C:\wamp\www\inmuebles\lib\Cake\Model\Model.php(2897): Model->getDataSource()
+#2 C:\wamp\www\inmuebles\lib\Cake\Model\Model.php(2869): Model->_readDataSource('first', Array)
+#3 C:\wamp\www\inmuebles\lib\Cake\Model\Model.php(1592): Model->find('first', Array)
+#4 C:\wamp\www\inmuebles\app\Controller\PropertysController.php(10): Model->read()
+#5 [internal function]: PropertysController->view('index')
+#6 C:\wamp\www\inmuebles\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PropertysController), Array)
+#7 C:\wamp\www\inmuebles\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#8 C:\wamp\www\inmuebles\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(PropertysController), Object(CakeRequest), Object(CakeResponse))
+#9 C:\wamp\www\inmuebles\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2013-12-02 18:53:36 Error: [MissingTableException] Table properties for model Property was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'properties',
+  'class' => 'Property',
+  'ds' => 'default',
+)
+Request URL: /inmuebles/propertys/view/index
+Stack Trace:
+#0 C:\wamp\www\inmuebles\lib\Cake\Model\Model.php(3493): Model->setSource('properties')
+#1 C:\wamp\www\inmuebles\lib\Cake\Model\Model.php(2897): Model->getDataSource()
+#2 C:\wamp\www\inmuebles\lib\Cake\Model\Model.php(2869): Model->_readDataSource('first', Array)
+#3 C:\wamp\www\inmuebles\lib\Cake\Model\Model.php(1592): Model->find('first', Array)
+#4 C:\wamp\www\inmuebles\app\Controller\PropertysController.php(10): Model->read()
+#5 [internal function]: PropertysController->view('index')
+#6 C:\wamp\www\inmuebles\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PropertysController), Array)
+#7 C:\wamp\www\inmuebles\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#8 C:\wamp\www\inmuebles\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(PropertysController), Object(CakeRequest), Object(CakeResponse))
+#9 C:\wamp\www\inmuebles\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2013-12-02 18:54:42 Error: [MissingTableException] Table properties for model Property was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'properties',
+  'class' => 'Property',
+  'ds' => 'default',
+)
+Request URL: /inmuebles/propertys/view/index
+Stack Trace:
+#0 C:\wamp\www\inmuebles\lib\Cake\Model\Model.php(3493): Model->setSource('properties')
+#1 C:\wamp\www\inmuebles\lib\Cake\Model\Model.php(2897): Model->getDataSource()
+#2 C:\wamp\www\inmuebles\lib\Cake\Model\Model.php(2869): Model->_readDataSource('first', Array)
+#3 C:\wamp\www\inmuebles\lib\Cake\Model\Model.php(1592): Model->find('first', Array)
+#4 C:\wamp\www\inmuebles\app\Controller\PropertysController.php(10): Model->read()
+#5 [internal function]: PropertysController->view('index')
+#6 C:\wamp\www\inmuebles\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PropertysController), Array)
+#7 C:\wamp\www\inmuebles\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#8 C:\wamp\www\inmuebles\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(PropertysController), Object(CakeRequest), Object(CakeResponse))
+#9 C:\wamp\www\inmuebles\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2013-12-02 18:54:44 Error: [MissingTableException] Table properties for model Property was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'properties',
+  'class' => 'Property',
+  'ds' => 'default',
+)
+Request URL: /inmuebles/propertys/view/index
+Stack Trace:
+#0 C:\wamp\www\inmuebles\lib\Cake\Model\Model.php(3493): Model->setSource('properties')
+#1 C:\wamp\www\inmuebles\lib\Cake\Model\Model.php(2897): Model->getDataSource()
+#2 C:\wamp\www\inmuebles\lib\Cake\Model\Model.php(2869): Model->_readDataSource('first', Array)
+#3 C:\wamp\www\inmuebles\lib\Cake\Model\Model.php(1592): Model->find('first', Array)
+#4 C:\wamp\www\inmuebles\app\Controller\PropertysController.php(10): Model->read()
+#5 [internal function]: PropertysController->view('index')
+#6 C:\wamp\www\inmuebles\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PropertysController), Array)
+#7 C:\wamp\www\inmuebles\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#8 C:\wamp\www\inmuebles\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(PropertysController), Object(CakeRequest), Object(CakeResponse))
+#9 C:\wamp\www\inmuebles\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2013-12-02 18:54:44 Error: [MissingTableException] Table properties for model Property was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'properties',
+  'class' => 'Property',
+  'ds' => 'default',
+)
+Request URL: /inmuebles/propertys/view/index
+Stack Trace:
+#0 C:\wamp\www\inmuebles\lib\Cake\Model\Model.php(3493): Model->setSource('properties')
+#1 C:\wamp\www\inmuebles\lib\Cake\Model\Model.php(2897): Model->getDataSource()
+#2 C:\wamp\www\inmuebles\lib\Cake\Model\Model.php(2869): Model->_readDataSource('first', Array)
+#3 C:\wamp\www\inmuebles\lib\Cake\Model\Model.php(1592): Model->find('first', Array)
+#4 C:\wamp\www\inmuebles\app\Controller\PropertysController.php(10): Model->read()
+#5 [internal function]: PropertysController->view('index')
+#6 C:\wamp\www\inmuebles\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PropertysController), Array)
+#7 C:\wamp\www\inmuebles\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#8 C:\wamp\www\inmuebles\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(PropertysController), Object(CakeRequest), Object(CakeResponse))
+#9 C:\wamp\www\inmuebles\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2013-12-02 18:54:44 Error: [MissingTableException] Table properties for model Property was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'properties',
+  'class' => 'Property',
+  'ds' => 'default',
+)
+Request URL: /inmuebles/propertys/view/index
+Stack Trace:
+#0 C:\wamp\www\inmuebles\lib\Cake\Model\Model.php(3493): Model->setSource('properties')
+#1 C:\wamp\www\inmuebles\lib\Cake\Model\Model.php(2897): Model->getDataSource()
+#2 C:\wamp\www\inmuebles\lib\Cake\Model\Model.php(2869): Model->_readDataSource('first', Array)
+#3 C:\wamp\www\inmuebles\lib\Cake\Model\Model.php(1592): Model->find('first', Array)
+#4 C:\wamp\www\inmuebles\app\Controller\PropertysController.php(10): Model->read()
+#5 [internal function]: PropertysController->view('index')
+#6 C:\wamp\www\inmuebles\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PropertysController), Array)
+#7 C:\wamp\www\inmuebles\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#8 C:\wamp\www\inmuebles\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(PropertysController), Object(CakeRequest), Object(CakeResponse))
+#9 C:\wamp\www\inmuebles\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2013-12-02 18:55:51 Error: [MissingViewException] View file "C:\wamp\www\inmuebles\app\View\Propertys\view.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\wamp\\www\\inmuebles\\app\\View\\Propertys\\view.ctp',
+)
+Request URL: /inmuebles/propertys/view/index
+Stack Trace:
+#0 C:\wamp\www\inmuebles\lib\Cake\View\View.php(457): View->_getViewFileName(NULL)
+#1 C:\wamp\www\inmuebles\lib\Cake\Controller\Controller.php(952): View->render(NULL, NULL)
+#2 C:\wamp\www\inmuebles\lib\Cake\Routing\Dispatcher.php(192): Controller->render()
+#3 C:\wamp\www\inmuebles\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(PropertysController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\wamp\www\inmuebles\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-12-02 18:56:21 Error: [MissingViewException] View file "C:\wamp\www\inmuebles\app\View\Propertys\view.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\wamp\\www\\inmuebles\\app\\View\\Propertys\\view.ctp',
+)
+Request URL: /inmuebles/propertys/view/
+Stack Trace:
+#0 C:\wamp\www\inmuebles\lib\Cake\View\View.php(457): View->_getViewFileName(NULL)
+#1 C:\wamp\www\inmuebles\lib\Cake\Controller\Controller.php(952): View->render(NULL, NULL)
+#2 C:\wamp\www\inmuebles\lib\Cake\Routing\Dispatcher.php(192): Controller->render()
+#3 C:\wamp\www\inmuebles\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(PropertysController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\wamp\www\inmuebles\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-12-02 18:57:34 Error: [MissingViewException] View file "C:\wamp\www\inmuebles\app\View\Propertys\view.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\wamp\\www\\inmuebles\\app\\View\\Propertys\\view.ctp',
+)
+Request URL: /inmuebles/propertys/view/1
+Stack Trace:
+#0 C:\wamp\www\inmuebles\lib\Cake\View\View.php(457): View->_getViewFileName(NULL)
+#1 C:\wamp\www\inmuebles\lib\Cake\Controller\Controller.php(952): View->render(NULL, NULL)
+#2 C:\wamp\www\inmuebles\lib\Cake\Routing\Dispatcher.php(192): Controller->render()
+#3 C:\wamp\www\inmuebles\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(PropertysController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\wamp\www\inmuebles\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-12-02 19:14:39 Error: [MissingHelperException] Helper class PropertyHelper could not be found.
+Exception Attributes: array (
+  'class' => 'PropertyHelper',
+  'plugin' => false,
+)
+Request URL: /inmuebles/propertys/index
+Stack Trace:
+#0 C:\wamp\www\inmuebles\lib\Cake\View\HelperCollection.php(63): HelperCollection->load('Property')
+#1 C:\wamp\www\inmuebles\lib\Cake\View\View.php(818): HelperCollection->__isset('Property')
+#2 C:\wamp\www\inmuebles\app\Controller\PropertysController.php(15): View->__get('Property')
+#3 C:\wamp\www\inmuebles\app\View\Propertys\index.ctp(10): PropertysController->getProperties('www.unaurl.com')
+#4 C:\wamp\www\inmuebles\lib\Cake\View\View.php(929): include('C:\wamp\www\inm...')
+#5 C:\wamp\www\inmuebles\lib\Cake\View\View.php(891): View->_evaluate('C:\wamp\www\inm...', Array)
+#6 C:\wamp\www\inmuebles\lib\Cake\View\View.php(460): View->_render('C:\wamp\www\inm...')
+#7 C:\wamp\www\inmuebles\lib\Cake\Controller\Controller.php(952): View->render(NULL, NULL)
+#8 C:\wamp\www\inmuebles\lib\Cake\Routing\Dispatcher.php(192): Controller->render()
+#9 C:\wamp\www\inmuebles\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(PropertysController), Object(CakeRequest), Object(CakeResponse))
+#10 C:\wamp\www\inmuebles\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2013-12-02 19:15:11 Error: Fatal Error (1): Call to undefined method View::getProperties() in [C:\wamp\www\inmuebles\app\View\Propertys\index.ctp, line 10]
+2013-12-02 19:15:11 Error: [FatalErrorException] Call to undefined method View::getProperties()
+Request URL: /inmuebles/propertys/index
+Stack Trace:
+#0 C:\wamp\www\inmuebles\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\wamp\www\inm...', 10)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\wamp\www\inm...', 10, Array)
+#2 C:\wamp\www\inmuebles\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\wamp\www\inm...', 10, Array)
+#3 C:\wamp\www\inmuebles\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-12-02 19:15:39 Error: Fatal Error (4): syntax error, unexpected '::' (T_PAAMAYIM_NEKUDOTAYIM) in [C:\wamp\www\inmuebles\app\View\Propertys\index.ctp, line 10]
+2013-12-02 19:15:39 Error: [FatalErrorException] syntax error, unexpected '::' (T_PAAMAYIM_NEKUDOTAYIM)
+Request URL: /inmuebles/propertys/index
+Stack Trace:
+#0 C:\wamp\www\inmuebles\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\inm...', 10)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\inm...', 10, Array)
+#2 C:\wamp\www\inmuebles\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\inm...', 10, Array)
+#3 C:\wamp\www\inmuebles\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-12-02 19:17:46 Error: [MissingActionException] Action PropertysController::getPropertys() could not be found.
+Exception Attributes: array (
+  'controller' => 'PropertysController',
+  'action' => 'getPropertys',
+)
+Request URL: /inmuebles/propertys/getPropertys
+Stack Trace:
+#0 C:\wamp\www\inmuebles\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\inmuebles\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(PropertysController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\inmuebles\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-12-02 19:18:23 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column '$url' in 'where clause'
+Request URL: /inmuebles/propertys/getProperties
+Stack Trace:
+#0 C:\wamp\www\inmuebles\lib\Cake\Model\Datasource\DboSource.php(458): PDOStatement->execute(Array)
+#1 C:\wamp\www\inmuebles\lib\Cake\Model\Datasource\DboSource.php(424): DboSource->_execute('SELECT `Propert...', Array)
+#2 C:\wamp\www\inmuebles\lib\Cake\Model\Datasource\DboSource.php(664): DboSource->execute('SELECT `Propert...', Array, Array)
+#3 C:\wamp\www\inmuebles\lib\Cake\Model\Datasource\DboSource.php(1076): DboSource->fetchAll('SELECT `Propert...', false)
+#4 C:\wamp\www\inmuebles\lib\Cake\Model\Model.php(2897): DboSource->read(Object(Property), Array)
+#5 C:\wamp\www\inmuebles\lib\Cake\Model\Model.php(2869): Model->_readDataSource('all', Array)
+#6 C:\wamp\www\inmuebles\app\Controller\PropertysController.php(15): Model->find('all', Array)
+#7 [internal function]: PropertysController->getProperties()
+#8 C:\wamp\www\inmuebles\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PropertysController), Array)
+#9 C:\wamp\www\inmuebles\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#10 C:\wamp\www\inmuebles\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(PropertysController), Object(CakeRequest), Object(CakeResponse))
+#11 C:\wamp\www\inmuebles\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2013-12-02 19:18:44 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column '$url' in 'where clause'
+Request URL: /inmuebles/propertys/getProperties/www.unaurl.com
+Stack Trace:
+#0 C:\wamp\www\inmuebles\lib\Cake\Model\Datasource\DboSource.php(458): PDOStatement->execute(Array)
+#1 C:\wamp\www\inmuebles\lib\Cake\Model\Datasource\DboSource.php(424): DboSource->_execute('SELECT `Propert...', Array)
+#2 C:\wamp\www\inmuebles\lib\Cake\Model\Datasource\DboSource.php(664): DboSource->execute('SELECT `Propert...', Array, Array)
+#3 C:\wamp\www\inmuebles\lib\Cake\Model\Datasource\DboSource.php(1076): DboSource->fetchAll('SELECT `Propert...', false)
+#4 C:\wamp\www\inmuebles\lib\Cake\Model\Model.php(2897): DboSource->read(Object(Property), Array)
+#5 C:\wamp\www\inmuebles\lib\Cake\Model\Model.php(2869): Model->_readDataSource('all', Array)
+#6 C:\wamp\www\inmuebles\app\Controller\PropertysController.php(15): Model->find('all', Array)
+#7 [internal function]: PropertysController->getProperties('www.unaurl.com')
+#8 C:\wamp\www\inmuebles\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PropertysController), Array)
+#9 C:\wamp\www\inmuebles\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#10 C:\wamp\www\inmuebles\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(PropertysController), Object(CakeRequest), Object(CakeResponse))
+#11 C:\wamp\www\inmuebles\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2013-12-02 19:19:14 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column '$url' in 'where clause'
+Request URL: /inmuebles/propertys/getProperties/www.unaurl.com
+Stack Trace:
+#0 C:\wamp\www\inmuebles\lib\Cake\Model\Datasource\DboSource.php(458): PDOStatement->execute(Array)
+#1 C:\wamp\www\inmuebles\lib\Cake\Model\Datasource\DboSource.php(424): DboSource->_execute('SELECT `Propert...', Array)
+#2 C:\wamp\www\inmuebles\lib\Cake\Model\Datasource\DboSource.php(664): DboSource->execute('SELECT `Propert...', Array, Array)
+#3 C:\wamp\www\inmuebles\lib\Cake\Model\Datasource\DboSource.php(1076): DboSource->fetchAll('SELECT `Propert...', false)
+#4 C:\wamp\www\inmuebles\lib\Cake\Model\Model.php(2897): DboSource->read(Object(Property), Array)
+#5 C:\wamp\www\inmuebles\lib\Cake\Model\Model.php(2869): Model->_readDataSource('all', Array)
+#6 C:\wamp\www\inmuebles\app\Controller\PropertysController.php(15): Model->find('all', Array)
+#7 [internal function]: PropertysController->getProperties('www.unaurl.com')
+#8 C:\wamp\www\inmuebles\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PropertysController), Array)
+#9 C:\wamp\www\inmuebles\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#10 C:\wamp\www\inmuebles\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(PropertysController), Object(CakeRequest), Object(CakeResponse))
+#11 C:\wamp\www\inmuebles\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2013-12-02 19:19:18 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column '$url' in 'where clause'
+Request URL: /inmuebles/propertys/getProperties/1
+Stack Trace:
+#0 C:\wamp\www\inmuebles\lib\Cake\Model\Datasource\DboSource.php(458): PDOStatement->execute(Array)
+#1 C:\wamp\www\inmuebles\lib\Cake\Model\Datasource\DboSource.php(424): DboSource->_execute('SELECT `Propert...', Array)
+#2 C:\wamp\www\inmuebles\lib\Cake\Model\Datasource\DboSource.php(664): DboSource->execute('SELECT `Propert...', Array, Array)
+#3 C:\wamp\www\inmuebles\lib\Cake\Model\Datasource\DboSource.php(1076): DboSource->fetchAll('SELECT `Propert...', false)
+#4 C:\wamp\www\inmuebles\lib\Cake\Model\Model.php(2897): DboSource->read(Object(Property), Array)
+#5 C:\wamp\www\inmuebles\lib\Cake\Model\Model.php(2869): Model->_readDataSource('all', Array)
+#6 C:\wamp\www\inmuebles\app\Controller\PropertysController.php(15): Model->find('all', Array)
+#7 [internal function]: PropertysController->getProperties('1')
+#8 C:\wamp\www\inmuebles\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PropertysController), Array)
+#9 C:\wamp\www\inmuebles\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#10 C:\wamp\www\inmuebles\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(PropertysController), Object(CakeRequest), Object(CakeResponse))
+#11 C:\wamp\www\inmuebles\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2013-12-02 19:21:05 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column '$url' in 'where clause'
+Request URL: /inmuebles/propertys/getProperties/1
+Stack Trace:
+#0 C:\wamp\www\inmuebles\lib\Cake\Model\Datasource\DboSource.php(458): PDOStatement->execute(Array)
+#1 C:\wamp\www\inmuebles\lib\Cake\Model\Datasource\DboSource.php(424): DboSource->_execute('SELECT `Propert...', Array)
+#2 C:\wamp\www\inmuebles\lib\Cake\Model\Datasource\DboSource.php(664): DboSource->execute('SELECT `Propert...', Array, Array)
+#3 C:\wamp\www\inmuebles\lib\Cake\Model\Datasource\DboSource.php(1076): DboSource->fetchAll('SELECT `Propert...', false)
+#4 C:\wamp\www\inmuebles\lib\Cake\Model\Model.php(2897): DboSource->read(Object(Property), Array)
+#5 C:\wamp\www\inmuebles\lib\Cake\Model\Model.php(2869): Model->_readDataSource('all', Array)
+#6 C:\wamp\www\inmuebles\app\Controller\PropertysController.php(15): Model->find('all', Array)
+#7 [internal function]: PropertysController->getProperties('1')
+#8 C:\wamp\www\inmuebles\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PropertysController), Array)
+#9 C:\wamp\www\inmuebles\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#10 C:\wamp\www\inmuebles\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(PropertysController), Object(CakeRequest), Object(CakeResponse))
+#11 C:\wamp\www\inmuebles\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2013-12-02 19:21:51 Error: Fatal Error (4): syntax error, unexpected '', Property.publish = 0'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in [C:\wamp\www\inmuebles\app\Controller\PropertysController.php, line 15]
+2013-12-02 19:21:51 Error: [FatalErrorException] syntax error, unexpected '', Property.publish = 0'' (T_CONSTANT_ENCAPSED_STRING), expecting ')'
+Request URL: /inmuebles/propertys/getProperties/1
+Stack Trace:
+#0 C:\wamp\www\inmuebles\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\inm...', 15)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\inm...', 15, Array)
+#2 C:\wamp\www\inmuebles\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\inm...', 15, Array)
+#3 C:\wamp\www\inmuebles\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-12-02 19:22:03 Error: Fatal Error (4): syntax error, unexpected '', Property.publish = 0'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in [C:\wamp\www\inmuebles\app\Controller\PropertysController.php, line 15]
+2013-12-02 19:22:03 Error: [FatalErrorException] syntax error, unexpected '', Property.publish = 0'' (T_CONSTANT_ENCAPSED_STRING), expecting ')'
+Request URL: /inmuebles/propertys/getProperties/www.unaurl.com
+Stack Trace:
+#0 C:\wamp\www\inmuebles\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\inm...', 15)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\inm...', 15, Array)
+#2 C:\wamp\www\inmuebles\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\inm...', 15, Array)
+#3 C:\wamp\www\inmuebles\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-12-02 19:26:20 Error: Fatal Error (4): syntax error, unexpected ';' in [C:\wamp\www\inmuebles\app\Controller\PropertysController.php, line 15]
+2013-12-02 19:26:20 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /inmuebles/propertys/getProperties/www.unaurl.com
+Stack Trace:
+#0 C:\wamp\www\inmuebles\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\inm...', 15)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\inm...', 15, Array)
+#2 C:\wamp\www\inmuebles\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\inm...', 15, Array)
+#3 C:\wamp\www\inmuebles\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-12-02 19:26:36 Error: [MissingViewException] View file "C:\wamp\www\inmuebles\app\View\Propertys\get_properties.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\wamp\\www\\inmuebles\\app\\View\\Propertys\\get_properties.ctp',
+)
+Request URL: /inmuebles/propertys/getProperties/www.unaurl.com
+Stack Trace:
+#0 C:\wamp\www\inmuebles\lib\Cake\View\View.php(457): View->_getViewFileName(NULL)
+#1 C:\wamp\www\inmuebles\lib\Cake\Controller\Controller.php(952): View->render(NULL, NULL)
+#2 C:\wamp\www\inmuebles\lib\Cake\Routing\Dispatcher.php(192): Controller->render()
+#3 C:\wamp\www\inmuebles\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(PropertysController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\wamp\www\inmuebles\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-12-02 19:26:53 Error: [MissingViewException] View file "C:\wamp\www\inmuebles\app\View\Propertys\get_properties.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\wamp\\www\\inmuebles\\app\\View\\Propertys\\get_properties.ctp',
+)
+Request URL: /inmuebles/propertys/getProperties/
+Stack Trace:
+#0 C:\wamp\www\inmuebles\lib\Cake\View\View.php(457): View->_getViewFileName(NULL)
+#1 C:\wamp\www\inmuebles\lib\Cake\Controller\Controller.php(952): View->render(NULL, NULL)
+#2 C:\wamp\www\inmuebles\lib\Cake\Routing\Dispatcher.php(192): Controller->render()
+#3 C:\wamp\www\inmuebles\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(PropertysController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\wamp\www\inmuebles\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-12-02 19:54:48 Error: Fatal Error (4): syntax error, unexpected '$xmlCode' (T_VARIABLE) in [C:\wamp\www\inmuebles\app\View\Propertys\get_properties.ctp, line 35]
+2013-12-02 19:54:48 Error: [FatalErrorException] syntax error, unexpected '$xmlCode' (T_VARIABLE)
+Request URL: /inmuebles/propertys/getProperties/otra.url.com
+Stack Trace:
+#0 C:\wamp\www\inmuebles\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\inm...', 35)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\inm...', 35, Array)
+#2 C:\wamp\www\inmuebles\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\inm...', 35, Array)
+#3 C:\wamp\www\inmuebles\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-12-02 20:04:12 Error: Fatal Error (4): syntax error, unexpected ''>'' (T_CONSTANT_ENCAPSED_STRING) in [C:\wamp\www\inmuebles\app\View\Propertys\get_properties.ctp, line 26]
+2013-12-02 20:04:12 Error: [FatalErrorException] syntax error, unexpected ''>'' (T_CONSTANT_ENCAPSED_STRING)
+Request URL: /inmuebles/propertys/getProperties/otra.url.com
+Stack Trace:
+#0 C:\wamp\www\inmuebles\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\inm...', 26)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\inm...', 26, Array)
+#2 C:\wamp\www\inmuebles\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\inm...', 26, Array)
+#3 C:\wamp\www\inmuebles\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-12-02 20:04:46 Error: Fatal Error (4): syntax error, unexpected ''</zip-code>' (T_CONSTANT_ENCAPSED_STRING) in [C:\wamp\www\inmuebles\app\View\Propertys\get_properties.ctp, line 30]
+2013-12-02 20:04:46 Error: [FatalErrorException] syntax error, unexpected ''</zip-code>' (T_CONSTANT_ENCAPSED_STRING)
+Request URL: /inmuebles/propertys/getProperties/otra.url.com
+Stack Trace:
+#0 C:\wamp\www\inmuebles\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\inm...', 30)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\inm...', 30, Array)
+#2 C:\wamp\www\inmuebles\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\inm...', 30, Array)
+#3 C:\wamp\www\inmuebles\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-12-02 22:32:30 Error: Fatal Error (64): Can't use function return value in write context in [C:\wamp\www\inmuebles\app\View\Propertys\get_properties.ctp, line 3]
+2013-12-02 22:32:31 Error: [FatalErrorException] Can't use function return value in write context
+Request URL: /inmuebles/propertys/getProperties/otra.url.com
+Stack Trace:
+#0 C:\wamp\www\inmuebles\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Can't use funct...', 'C:\wamp\www\inm...', 3)
+#1 [internal function]: ErrorHandler::handleError(64, 'Can't use funct...', 'C:\wamp\www\inm...', 3, Array)
+#2 C:\wamp\www\inmuebles\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 64, 'Can't use funct...', 'C:\wamp\www\inm...', 3, Array)
+#3 C:\wamp\www\inmuebles\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-12-02 22:32:36 Error: Fatal Error (64): Can't use function return value in write context in [C:\wamp\www\inmuebles\app\View\Propertys\get_properties.ctp, line 3]
+2013-12-02 22:32:36 Error: [FatalErrorException] Can't use function return value in write context
+Request URL: /inmuebles/propertys/getProperties/otra.url.com
+Stack Trace:
+#0 C:\wamp\www\inmuebles\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Can't use funct...', 'C:\wamp\www\inm...', 3)
+#1 [internal function]: ErrorHandler::handleError(64, 'Can't use funct...', 'C:\wamp\www\inm...', 3, Array)
+#2 C:\wamp\www\inmuebles\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 64, 'Can't use funct...', 'C:\wamp\www\inm...', 3, Array)
+#3 C:\wamp\www\inmuebles\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-12-02 22:32:38 Error: Fatal Error (64): Can't use function return value in write context in [C:\wamp\www\inmuebles\app\View\Propertys\get_properties.ctp, line 3]
+2013-12-02 22:32:38 Error: [FatalErrorException] Can't use function return value in write context
+Request URL: /inmuebles/propertys/getProperties/otra.url.com
+Stack Trace:
+#0 C:\wamp\www\inmuebles\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Can't use funct...', 'C:\wamp\www\inm...', 3)
+#1 [internal function]: ErrorHandler::handleError(64, 'Can't use funct...', 'C:\wamp\www\inm...', 3, Array)
+#2 C:\wamp\www\inmuebles\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 64, 'Can't use funct...', 'C:\wamp\www\inm...', 3, Array)
+#3 C:\wamp\www\inmuebles\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-12-02 22:32:40 Error: Fatal Error (64): Can't use function return value in write context in [C:\wamp\www\inmuebles\app\View\Propertys\get_properties.ctp, line 3]
+2013-12-02 22:32:40 Error: [FatalErrorException] Can't use function return value in write context
+Request URL: /inmuebles/propertys/getProperties/otra.url.com
+Stack Trace:
+#0 C:\wamp\www\inmuebles\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Can't use funct...', 'C:\wamp\www\inm...', 3)
+#1 [internal function]: ErrorHandler::handleError(64, 'Can't use funct...', 'C:\wamp\www\inm...', 3, Array)
+#2 C:\wamp\www\inmuebles\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 64, 'Can't use funct...', 'C:\wamp\www\inm...', 3, Array)
+#3 C:\wamp\www\inmuebles\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-12-02 22:32:57 Error: Fatal Error (64): Can't use function return value in write context in [C:\wamp\www\inmuebles\app\View\Propertys\get_properties.ctp, line 3]
+2013-12-02 22:32:57 Error: [FatalErrorException] Can't use function return value in write context
+Request URL: /inmuebles/propertys/getProperties/otra.url.com
+Stack Trace:
+#0 C:\wamp\www\inmuebles\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Can't use funct...', 'C:\wamp\www\inm...', 3)
+#1 [internal function]: ErrorHandler::handleError(64, 'Can't use funct...', 'C:\wamp\www\inm...', 3, Array)
+#2 C:\wamp\www\inmuebles\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 64, 'Can't use funct...', 'C:\wamp\www\inm...', 3, Array)
+#3 C:\wamp\www\inmuebles\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-12-02 22:32:59 Error: Fatal Error (64): Can't use function return value in write context in [C:\wamp\www\inmuebles\app\View\Propertys\get_properties.ctp, line 3]
+2013-12-02 22:32:59 Error: [FatalErrorException] Can't use function return value in write context
+Request URL: /inmuebles/propertys/getProperties/otra.url.com
+Stack Trace:
+#0 C:\wamp\www\inmuebles\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Can't use funct...', 'C:\wamp\www\inm...', 3)
+#1 [internal function]: ErrorHandler::handleError(64, 'Can't use funct...', 'C:\wamp\www\inm...', 3, Array)
+#2 C:\wamp\www\inmuebles\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 64, 'Can't use funct...', 'C:\wamp\www\inm...', 3, Array)
+#3 C:\wamp\www\inmuebles\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-12-02 22:33:02 Error: Fatal Error (64): Can't use function return value in write context in [C:\wamp\www\inmuebles\app\View\Propertys\get_properties.ctp, line 3]
+2013-12-02 22:33:02 Error: [FatalErrorException] Can't use function return value in write context
+Request URL: /inmuebles/propertys/getProperties/otra.url.com
+Stack Trace:
+#0 C:\wamp\www\inmuebles\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Can't use funct...', 'C:\wamp\www\inm...', 3)
+#1 [internal function]: ErrorHandler::handleError(64, 'Can't use funct...', 'C:\wamp\www\inm...', 3, Array)
+#2 C:\wamp\www\inmuebles\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 64, 'Can't use funct...', 'C:\wamp\www\inm...', 3, Array)
+#3 C:\wamp\www\inmuebles\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-12-02 22:56:33 Error: Fatal Error (4): syntax error, unexpected 'print_r' (T_STRING) in [C:\wamp\www\inmuebles\app\View\Propertys\get_properties.ctp, line 42]
+2013-12-02 22:56:33 Error: [FatalErrorException] syntax error, unexpected 'print_r' (T_STRING)
+Request URL: /inmuebles/propertys/getProperties/otra.url.com
+Stack Trace:
+#0 C:\wamp\www\inmuebles\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\inm...', 42)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\inm...', 42, Array)
+#2 C:\wamp\www\inmuebles\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\inm...', 42, Array)
+#3 C:\wamp\www\inmuebles\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-12-03 23:15:59 Error: [MissingViewException] View file "C:\wamp\www\inmuebles\app\View\Propertys\yakazctp.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\wamp\\www\\inmuebles\\app\\View\\Propertys\\yakazctp.ctp',
+)
+Request URL: /inmuebles/propertys/getProperties/otra.url.com
+Stack Trace:
+#0 C:\wamp\www\inmuebles\lib\Cake\View\View.php(457): View->_getViewFileName('yakazctp')
+#1 C:\wamp\www\inmuebles\lib\Cake\Controller\Controller.php(952): View->render('yakazctp', NULL)
+#2 C:\wamp\www\inmuebles\app\Controller\PropertysController.php(16): Controller->render('yakazctp')
+#3 [internal function]: PropertysController->getProperties('otra.url.com')
+#4 C:\wamp\www\inmuebles\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PropertysController), Array)
+#5 C:\wamp\www\inmuebles\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\inmuebles\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(PropertysController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\inmuebles\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-12-03 23:16:18 Error: [MissingViewException] View file "C:\wamp\www\inmuebles\app\View\Propertys\yakaz.ctp.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\wamp\\www\\inmuebles\\app\\View\\Propertys\\yakaz.ctp.ctp',
+)
+Request URL: /inmuebles/propertys/getProperties/otra.url.com
+Stack Trace:
+#0 C:\wamp\www\inmuebles\lib\Cake\View\View.php(457): View->_getViewFileName('yakaz.ctp')
+#1 C:\wamp\www\inmuebles\lib\Cake\Controller\Controller.php(952): View->render('yakaz.ctp', NULL)
+#2 C:\wamp\www\inmuebles\app\Controller\PropertysController.php(16): Controller->render('yakaz.ctp')
+#3 [internal function]: PropertysController->getProperties('otra.url.com')
+#4 C:\wamp\www\inmuebles\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PropertysController), Array)
+#5 C:\wamp\www\inmuebles\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\inmuebles\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(PropertysController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\inmuebles\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-12-04 00:20:08 Error: Fatal Error (4): syntax error, unexpected '1.0' (T_DNUMBER) in [C:\wamp\www\inmuebles\app\View\Propertys\oxl.ctp, line 8]
+2013-12-04 00:20:08 Error: [FatalErrorException] syntax error, unexpected '1.0' (T_DNUMBER)
+Request URL: /inmuebles/propertys/getProperties/otra.url.com
+Stack Trace:
+#0 C:\wamp\www\inmuebles\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\inm...', 8)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\inm...', 8, Array)
+#2 C:\wamp\www\inmuebles\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\inm...', 8, Array)
+#3 C:\wamp\www\inmuebles\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-12-04 00:22:45 Error: Fatal Error (4): syntax error, unexpected '.' in [C:\wamp\www\inmuebles\app\View\Propertys\oxl.ctp, line 16]
+2013-12-04 00:22:45 Error: [FatalErrorException] syntax error, unexpected '.'
+Request URL: /inmuebles/propertys/getProperties/otra.url.com
+Stack Trace:
+#0 C:\wamp\www\inmuebles\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\inm...', 16)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\inm...', 16, Array)
+#2 C:\wamp\www\inmuebles\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\inm...', 16, Array)
+#3 C:\wamp\www\inmuebles\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-12-04 17:07:43 Error: Fatal Error (1): Call to a member function find() on a non-object in [C:\wamp\www\inmuebles\app\Controller\PropertysController.php, line 17]
+2013-12-04 17:07:44 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /inmuebles/propertys/getProperties/otra.url.com
+Stack Trace:
+#0 C:\wamp\www\inmuebles\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\wamp\www\inm...', 17)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\wamp\www\inm...', 17, Array)
+#2 C:\wamp\www\inmuebles\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\wamp\www\inm...', 17, Array)
+#3 C:\wamp\www\inmuebles\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-12-04 17:08:55 Error: Fatal Error (1): Call to a member function find() on a non-object in [C:\wamp\www\inmuebles\app\Controller\PropertysController.php, line 17]
+2013-12-04 17:08:55 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /inmuebles/propertys/getProperties/otra.url.com
+Stack Trace:
+#0 C:\wamp\www\inmuebles\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\wamp\www\inm...', 17)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\wamp\www\inm...', 17, Array)
+#2 C:\wamp\www\inmuebles\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\wamp\www\inm...', 17, Array)
+#3 C:\wamp\www\inmuebles\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-12-04 17:08:56 Error: Fatal Error (1): Call to a member function find() on a non-object in [C:\wamp\www\inmuebles\app\Controller\PropertysController.php, line 17]
+2013-12-04 17:08:56 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /inmuebles/propertys/getProperties/otra.url.com
+Stack Trace:
+#0 C:\wamp\www\inmuebles\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\wamp\www\inm...', 17)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\wamp\www\inm...', 17, Array)
+#2 C:\wamp\www\inmuebles\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\wamp\www\inm...', 17, Array)
+#3 C:\wamp\www\inmuebles\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}

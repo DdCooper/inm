@@ -1,0 +1,94 @@
+
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+	<!DOCTYPE yakaz PUBLIC "" "http://www.yakaz.com/yakaz.dtd" >
+
+	<yakaz version="1.0">
+	<ad-housing category=""> <!-- for each housing rentals ad -->
+	<what>
+		<title>test</title>
+		<description>test</description>
+		<ad-url>otra.url.com</ad-url>
+		<picture-url>otra.url.com/pick/unapick.png</picture-url>
+		<!-- no logo - option -->
+		<price unit=>4</price>
+		<!-- unit can be "euro", "dollar", "pound", "peso" - 0 if no price -->
+		<rooms>4</rooms>
+		<!-- rooms number - option -->
+		<bedrooms>3</bedrooms>
+		<!-- bedrooms number - option -->
+		<bathrooms>1</bathrooms>
+		<!-- bathrooms number - option -->
+		<surface unit=>40</surface>
+		<!-- unit can be "m2" or "sqft" - option -->
+	</what>
+	<where>
+		<street-address display-address=>asd</street-address>
+		<!-- option -->
+		<city-name>asd</city-name>
+		<zip-code></zip-code>
+		<country></country>
+		<!-- country codes : FR, ES, UK, DE, US, IT, MX, AR, CL -->
+	</where>
+</ad-housing>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+	<!DOCTYPE yakaz PUBLIC "" "http://www.yakaz.com/yakaz.dtd" >
+
+	<yakaz version="1.0">
+	<ad-housing category=""> <!-- for each housing rentals ad -->
+	<what>
+		<title>test2</title>
+		<description>test2</description>
+		<ad-url>otra.url.com</ad-url>
+		<picture-url>otra.url.com/pick/unapick.png</picture-url>
+		<!-- no logo - option -->
+		<price unit=>5</price>
+		<!-- unit can be "euro", "dollar", "pound", "peso" - 0 if no price -->
+		<rooms>4</rooms>
+		<!-- rooms number - option -->
+		<bedrooms>3</bedrooms>
+		<!-- bedrooms number - option -->
+		<bathrooms>1</bathrooms>
+		<!-- bathrooms number - option -->
+		<surface unit=>40</surface>
+		<!-- unit can be "m2" or "sqft" - option -->
+	</what>
+	<where>
+		<street-address display-address=>asd</street-address>
+		<!-- option -->
+		<city-name>asd</city-name>
+		<zip-code></zip-code>
+		<country></country>
+		<!-- country codes : FR, ES, UK, DE, US, IT, MX, AR, CL -->
+	</where>
+</ad-housing>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+	<!DOCTYPE yakaz PUBLIC "" "http://www.yakaz.com/yakaz.dtd" >
+
+	<yakaz version="1.0">
+	<ad-housing category=""> <!-- for each housing rentals ad -->
+	<what>
+		<title>test3</title>
+		<description>test3</description>
+		<ad-url>otra.url.com</ad-url>
+		<picture-url>otra.url.com/pick/unapick.png</picture-url>
+		<!-- no logo - option -->
+		<price unit=>6</price>
+		<!-- unit can be "euro", "dollar", "pound", "peso" - 0 if no price -->
+		<rooms>4</rooms>
+		<!-- rooms number - option -->
+		<bedrooms>3</bedrooms>
+		<!-- bedrooms number - option -->
+		<bathrooms>1</bathrooms>
+		<!-- bathrooms number - option -->
+		<surface unit=>40</surface>
+		<!-- unit can be "m2" or "sqft" - option -->
+	</what>
+	<where>
+		<street-address display-address=>asd</street-address>
+		<!-- option -->
+		<city-name>asd</city-name>
+		<zip-code></zip-code>
+		<country></country>
+		<!-- country codes : FR, ES, UK, DE, US, IT, MX, AR, CL -->
+	</where>
+</ad-housing>
